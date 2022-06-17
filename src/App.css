@@ -13,6 +13,22 @@
   }
 }
 
+.notFound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: beige;
+  padding: 1rem;
+  border-radius: 55px;
+  flex-direction: column;
+}
+
+.notFound a {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -24,6 +40,14 @@
   color: white;
 }
 
+.navbar-nav {
+  flex-direction: row !important;
+  justify-content: center;
+  align-items: center;
+}
+li.nav-item {
+  padding: 0 5px !important;
+}
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +59,70 @@
   to {
     transform: rotate(360deg);
   }
+}
+#flex {
+  display: none !important;
+}
+
+#navbarSupportedContent2 {
+  display: none !important;
+}
+#navbarSupportedContent {
+  display: flex;
+}
+#toggleBtn {
+  display: none !important;
+}
+
+@media (max-width: 776px) {
+  #navbarSupportedContent2 {
+    flex-direction: column;
+    align-items: center;
+  }
+  #flex {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  #navbarSupportedContent {
+    display: none !important;
+  }
+  #toggleBtn {
+    display: block !important;
+  }
+}
+input.inputForm.mr-sm-2 {
+  height: 2rem;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.ttcap {
+  text-transform: capitalize !important;
+}
+section {
+  background-color: darkslategray;
+}
+input:focus {
+  outline: none !important;
+}
+
+@media (max-width: 425px) {
+  li.nav-item a {
+    font-size: 15px;
+  }
+  .inputForm {
+    flex-wrap: wrap;
+  }
+  .navbar-nav {
+    flex-wrap: wrap;
+  }
+}
+
+.tagTitle {
+  background: red;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
 }
