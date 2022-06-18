@@ -1,16 +1,16 @@
 export const database = [
     {
-        name:"Bubble Shooter Pro",
-        image:"https://agamecdn.com/system/static/thumbs/spil_thumb_big/70895/webp_Bubble-Shooter-Pro-2-200x120.webp?1652105766",
-        type:"Shooting",
-        link:"https://html5.gamedistribution.com/4083ecb5efb64504a7904361c7def2ab/?timestamp=1655395964&amp;countryCode=en&amp;siteid=79&amp;channelid=2&amp;siteLocale=en&amp;locale=en&amp;gd_sdk_referrer_url=https%3A%2F%2Fwww.agame.com%2Fgame%2Fbubble-shooter-pro-2",
+        name:"truck trials",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/TruckTrialsTeaser.jpg?v=0.2-87ab1170",
+        type:"Racing",
+        link:"https://play.famobi.com/truck-trials/A-HPJN8",
         id:1
     },
     {
-        name:"spider-solitaire-blue",
-        image:"https://agamecdn.com/system/static/thumbs/spil_thumb_big/33380/webp_Spider-Solitaire-Blue-200x120.webp?1655121299",
-        type:"Arcade Games",
-        link:"//html5.gamedistribution.com/rvvASMiM/75b39f461b7a49d5b8235b05e94a7c2b/?timestamp=1655396101&countryCode=en&siteid=79&channelid=2&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fwww.agame.com%2Fgame%2Fspider-solitaire-blue&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5hZ2FtZS5jb20vZ2FtZS9zcGlkZXItc29saXRhaXJlLWJsdWUiLCJwYXJlbnREb21haW4iOiJhZ2FtZS5jb20iLCJ0b3BEb21haW4iOiJhZ2FtZS5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNCJ9",
+        name:"Free Rider",
+        image:"https://tutorialzine.com/media/2015/01/freeriderhd.jpg",
+        type:"Arcade",
+        link:"https://www.freeriderhd.com/game/903119",
         id:2
     },
     {
@@ -231,122 +231,122 @@ export const database = [
         id:33
     },
     {
-        name:"Endless Truck",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/EndlessTruckTeaser.jpg?v=0.2-87ab1170",
+        name:"Final Freeway",
+        image:"https://api.web.gamepix.com/assets/img/320/180/banner/final-freeway.webp",
         type:"Racing",
-        link:"https://games.cdn.famobi.com/html5games/e/endless-truck/v540/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=a5ff2552-bbd9-4aff-9bcc-ec056478318d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=695&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2Fa5ff2552-bbd9-4aff-9bcc-ec056478318d%2FA1000-10",
+        link:"https://games.builds.gamepix.com/90Y88/6902573191974092800/index.html?sid=e4515&lang=en&namespace=final-freeway",
         id:34
     },
     {
-        name:"Jungle Run",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/JungleRunTeaser.jpg?v=0.2-87ab1170",
+        name:"Endless Truck",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/EndlessTruckTeaser.jpg?v=0.2-87ab1170",
         type:"Racing",
-        link:"https://games.cdn.famobi.com/html5games/j/jungle-run/v320/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=a99d8e52-54c2-4729-b64e-1cd4e870f6e5&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=695&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2Fa99d8e52-54c2-4729-b64e-1cd4e870f6e5%2FA1000-10",
+        link:"https://play.famobi.com/endless-truck/A-HPJN8",
         id:35
-    },
-    {
-        name:"Drag Racing Car",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/DragRacingClubTeaser.jpg?v=0.2-87ab1170",
-        type:"Racing",
-        link:"https://games.cdn.famobi.com/html5games/d/drag-racing-club/v060/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=7903c763-4f6b-48fb-8396-3a18daae70c7&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=695&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F7903c763-4f6b-48fb-8396-3a18daae70c7%2FA1000-10",
-        id:36
     },
     {
         name:"Moto X3M Pool Party",
         image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPartyTeaser.jpg?v=0.2-87ab1170",
         type:"Racing",
-        link:"https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=694&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2Fb2102250-eb51-4704-9cab-ff296491cc68%2FA1000-10",
+        link:"https://play.famobi.com/moto-x3m-pool-party/A-HPJN8",
+        id:36
+    },
+    {
+        name:"crowd run 3d",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/_CrowdRun3dTeaser.jpg?v=0.2-87ab1170",
+        type:"Racing",
+        link:"https://play.famobi.com/crowd-run-3d/A-HPJN8",
         id:37
     },
     {
-        name:"Bus Parking 3D",
+        name:"Bus parking 3D",
         image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/BusParking3dTeaser.jpg?v=0.2-87ab1170",
         type:"Stretegy",
-        link:"https://games.cdn.famobi.com/html5games/b/bus-parking-3d/v080/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=0a709615-79da-41b4-8d52-a0034b02435b&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=694&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F0a709615-79da-41b4-8d52-a0034b02435b%2FA1000-10",
+        link:"https://play.famobi.com/bus-parking-3d/A-HPJN8",
         id:38
-    },
-    {
-        name:"3D Chess",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/3dChessTeaser.jpg?v=0.2-87ab1170",
-        type:"Stretegy",
-        link:"https://games.cdn.famobi.com/html5games/0/3d-chess/v180/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=8e9306bb-99cc-4762-9708-a34d8afa6ae1&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=694&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F8e9306bb-99cc-4762-9708-a34d8afa6ae1%2FA1000-10",
-        id:39
-    },
-    {
-        name:"Swooop",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/SWOOOPTeaser.jpg?v=0.2-87ab1170",
-        type:"Racing",
-        link:"https://games.cdn.famobi.com/html5games/s/swooop/v1/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=89459199-3905-4687-b993-158f437a0e11&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=690&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F89459199-3905-4687-b993-158f437a0e11%2FA1000-10",
-        id:40
-    },
-    {
-        name:"3D Basketball",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBasketballTeaser.jpg?v=0.2-87ab1170",
-        type:"Stretegy",
-        link:"https://games.cdn.famobi.com/html5games/0/3d-basketball/v240/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=a7b60a51-7426-449a-8fed-e4f57d3dccd7&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=692&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2Fa7b60a51-7426-449a-8fed-e4f57d3dccd7%2FA1000-10",
-        id:41
     },
     {
         name:"Stack Smash",
         image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/StackSmashTeaser.jpg?v=0.2-87ab1170",
-        type:"Arcade",
-        link:"https://games.cdn.famobi.com/html5games/s/stack-smash/v040/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=3ad5d684-ab8b-4730-a209-8a614030c39a&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=501&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F3ad5d684-ab8b-4730-a209-8a614030c39a%2FA1000-10",
-        id:42
+        type:"Stretegy",
+        link:"https://play.famobi.com/stack-smash/A-HPJN8",
+        id:39
     },
     {
-        name:"Fruit Break",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitBreakTeaser.jpg?v=0.2-87ab1170",
-        type:"Arcade",
-        link:"https://games.cdn.famobi.com/html5games/f/fruit-break/v160/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=7b3834fe-4295-447d-94c6-7bf9da585390&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=691&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F7b3834fe-4295-447d-94c6-7bf9da585390%2FA1000-10",
-        id:43
-    },
-    {
-        name:"Banana Run",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/BananaRun_Teaser.jpg?v=0.2-87ab1170",
-        type:"Arcade",
-        link:"https://games.cdn.famobi.com/html5games/b/banana-run/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=fba55fc0-407a-4ce9-9c07-bcd3045a3df7&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=691&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2Ffba55fc0-407a-4ce9-9c07-bcd3045a3df7%2FA1000-10",
-        id:44
-    },
-    {
-        name:"Crowd Run 3D",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/_CrowdRun3dTeaser.jpg?v=0.2-87ab1170",
-        type:"Arcade",
-        link:"https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=690&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F28ab613b-9f40-4ab7-8f09-aa19f32e3660%2FA1000-10",
-        id:45
+        name:"Monkey Bounce",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/MonkeyBounceTeaser.jpg?v=0.2-87ab1170",
+        type:"stretegy",
+        link:"https://play.famobi.com/monkey-bounce/A-HPJN8",
+        id:40
     },
     {
         name:"High Hills",
         image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/HighHillsTeaser.jpg?v=0.2-87ab1170",
         type:"Racing",
-        link:"https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=686&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F2a35d037-696c-4351-9e34-7260392f9404%2FA1000-10",
-        id:46
+        link:"https://play.famobi.com/high-hills/A-HPJN8",
+        id:41
     },
     {
-        name:"Maze",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/MazeTeaser.jpg?v=0.2-87ab1170",
-        type:"Stretegy",
-        link:"https://games.cdn.famobi.com/html5games/m/maze/v070/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=73ae54ea-f54f-480b-bf80-7e42dc3b9fe6&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=689&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F73ae54ea-f54f-480b-bf80-7e42dc3b9fe6%2FA1000-10",
-        id:47
+        name:"Drag Racing Club",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/DragRacingClubTeaser.jpg?v=0.2-87ab1170",
+        type:"Racing",
+        link:"https://play.famobi.com/drag-racing-club/A-HPJN8",
+        id:42
     },
     {
         name:"Highway Rider Extreme",
         image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/HighwayRiderExtremeTeaser.jpg?v=0.2-87ab1170",
-        type:"Racing",
-        link:"https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=687&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F83175bfa-1c89-46d9-91da-7ea5fc7a642f%2FA1000-10",
-        id:48
+        type:"racing",
+        link:"https://play.famobi.com/highway-rider-extreme/A-HPJN8",
+        id:43
     },
     {
-        name:"Billiard Blitz Challenge",
-        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/BilliardBlitzChallengeTeaser.jpg?v=0.2-87ab1170",
-        type:"Stretegy",
-        link:"https://games.cdn.famobi.com/html5games/b/billiard-blitz-challenge/v390/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=e72de216-92b4-4efc-a2b9-8318e819139b&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=689&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2Fe72de216-92b4-4efc-a2b9-8318e819139b%2FA1000-10",
-        id:49
+        name:"Truck Trials",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/TruckTrialsTeaser.jpg?v=0.2-87ab1170",
+        type:"Racing",
+        link:"https://play.famobi.com/truck-trials/A-HPJN8",
+        id:44
     },
     {
         name:"Ultimate Boxing",
         image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/UltimateBoxingTeaser.jpg?v=0.2-87ab1170",
+        type:"Arcade",
+        link:"https://play.famobi.com/ultimate-boxing/A-HPJN8",
+        id:45
+    },
+    {
+        name:"Jungle Run",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/JungleRunTeaser.jpg?v=0.2-87ab1170",
+        type:"Sports",
+        link:"https://play.famobi.com/jungle-run/A-HPJN8",
+        id:46
+    },
+    {
+        name:"3D Bowling",
+        image:"https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBowlingTeaser.jpg?v=0.2-87ab1170",
+        type:"Sports",
+        link:"https://play.famobi.com/3d-bowling/A-HPJN8",
+        id:47
+    },
+    {
+        name:"Tom and Jerry",
+        image:"https://img.kbhgames.com/2019/07/Run-Jerry-Tom-and-Jerry.jpg",
+        type:"Racing",
+        link:"https://kdata1.com/2019/07/run-jerry-tom-and-jerry/",
+        id:48
+    },
+    {
+        name:"G Switch 3",
+        image:"https://img.kbhgames.com/2016/11/G-Switch-3.jpg",
         type:"Stretegy",
-        link:"https://games.cdn.famobi.com/html5games/u/ultimate-boxing/v020/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=734d35f4-9606-4a19-9016-acc6081879a2&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=689&original_ref=https%3A%2F%2Fplay.famobi.com%2Fhtml5game%2F734d35f4-9606-4a19-9016-acc6081879a2%2FA1000-10",
+        link:" https://games.poki.com/217620/gswitch3",
+        id:49
+    },
+    {
+        name:"Slope Game",
+        image:"https://img.kbhgames.com/2014/10/slope.jpg",
+        type:"Stretegy",
+        link:"https://kdata1.com/2020/05/slope/",
         id:50
     }
 ]
